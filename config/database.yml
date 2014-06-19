@@ -8,7 +8,7 @@ development:
 
 production:
   adapter: mysql2            
-  host: 54.208.130.57                         # VM IP
+  host: 192.168.3.241                         # VM IP
   port: 53653                          # VM Port  
   database: demo_db             # Database Name
   username: aqfjgj73vsnmddoi                # User Name
